@@ -7,3 +7,5 @@ This repository contains same common [Dockerfiles](https://docs.docker.com/engin
 - clang/alpine: alpine with clang and alpine-sdk. Often used to build C or C++ projects
 
 - gcc/ubuntu: ubuntu with build-essential and git
+
+- libssl : debian based linux with tzdata libcurl4 libssl-dev openssl
