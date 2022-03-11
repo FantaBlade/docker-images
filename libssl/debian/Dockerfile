@@ -1,5 +1,5 @@
 
-FROM debian:buster-slim
+FROM debian:bullseye-slim
 
 RUN apt-get update \
     && apt-get install -y tzdata libcurl4 libssl-dev openssl \
